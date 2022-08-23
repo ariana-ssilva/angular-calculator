@@ -1,0 +1,10 @@
+.card {
+    margin: 5rem;
+    max-width: 90%;
+    justify-content: center;
+    align-items: center;
+
+}
+.jumbotron{
+    width: 30rem !important;
+}
